@@ -3,7 +3,7 @@ To run this application locally, follow these steps:
 
 1. Clone / Download the repository: 
     ```bash
-    git clone https://github.com/<org_name>/vscode-java-api.git
+    git clone https://github.com/sombaner/hackathon-workshop-java-appdev.git
 
     git checkout -b <your_name>
     ```
