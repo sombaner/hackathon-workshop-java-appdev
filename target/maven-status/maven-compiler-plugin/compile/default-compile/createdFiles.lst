@@ -1,0 +1,4 @@
+com/example/stockticker/service/StockService.class
+com/example/stockticker/model/Stock.class
+com/example/stockticker/StockTickerApplication.class
+com/example/stockticker/controller/StockController.class

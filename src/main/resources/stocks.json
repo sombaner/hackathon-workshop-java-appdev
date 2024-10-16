@@ -1,0 +1,191 @@
+[
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "1"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "2"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "3"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "4"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "5"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "6"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "7"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "8"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "9"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "10"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "11"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "12"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "13"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "14"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "15"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "16"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "17"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "18"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "19"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "20"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "21"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "22"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "23"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "24"
+  },
+  {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 150.25,
+      "volume": 1000000,
+      "id": "25"
+  },
+  {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 2500.75,
+      "volume": 500000,
+      "id": "26"
+  },
+  {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 300.50,
+      "volume": 750000,
+      "id": "27"
+  }
+]
